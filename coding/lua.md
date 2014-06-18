@@ -9,11 +9,17 @@ Quick syntax examples. http://tylerneylon.com/a/learn-lua/
 ##### string.format
 http://www.gammon.com.au/scripts/doc.php?lua=string.format
 
+##### pattern matching
+http://www.wowwiki.com/Pattern_matching
+
 
 ## Environment
 
 ##### Source Code Formatter
 http://lua-users.org/wiki/SourceCodeFormatter
+
+##### Lua developmen tools for Eclipse
+http://marketplace.eclipse.org/content/lua-development-tools-koneki#.U6F_1abWOCh
 
 
 ## Frameworks
