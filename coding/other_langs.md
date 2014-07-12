@@ -18,6 +18,12 @@ http://habrahabr.ru/post/175979/
 http://habrahabr.ru/post/173071/
 
 
+## D
+##### vibe.d
+Asynchronous I/O framework
+http://vibed.org/
+
+
 ## Haskell
 ##### Haskell the Hard Way
 * [en] http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/

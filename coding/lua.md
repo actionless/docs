@@ -12,6 +12,9 @@ http://www.gammon.com.au/scripts/doc.php?lua=string.format
 ##### pattern matching
 http://www.wowwiki.com/Pattern_matching
 
+##### Coroutines Tutorial
+http://lua-users.org/wiki/CoroutinesTutorial
+
 
 ## Environment
 
