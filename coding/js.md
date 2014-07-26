@@ -1,5 +1,7 @@
 # Useful JavaScript things
 
+
+
 ## Environment
 
 ####
@@ -7,6 +9,14 @@
 Use node-style `require()` do generate on js file. https://github.com/substack/node-browserify/
 
 http://jsman.ru/2012/08/24/browserify.html
+
+
+
+## Testing
+
+#### Intern
+Run tests from straight your browser or Node.js. Write tests using any style you like (TDD, BDD, whatever)
+http://theintern.io/
 
 
 ## Runtimes/dialects
@@ -30,9 +40,3 @@ http://ringojs.org/
 
 #### Meteor
 https://www.meteor.com/
-
-#### Derby
-##### [rus] some useful info:
-* p1 http://habrahabr.ru/post/221027/
-* p2 http://habrahabr.ru/post/221703/
-* p3 http://habrahabr.ru/post/222399/

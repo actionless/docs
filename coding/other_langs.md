@@ -1,6 +1,7 @@
 # Other interesting programming languages
 
 
+
 ## Ur
 Ur is functional, pure, statically typed, and strict programming language in the tradition of ML and Haskell. Ur/Web supports construction of dynamic web applications backed by SQL databases.
 ##### homepage
@@ -14,12 +15,15 @@ http://habrahabr.ru/post/175979/
 
 
 
-## Closure
+## Clojure
 http://www.clojure.org/
+
+http://clojure.org/cheatsheet
 
 http://learn-clojure.com/
 
 http://clojuredocs.org/
+
 
 ##### [rus] good feature show-off
 http://habrahabr.ru/post/173071/
@@ -49,4 +53,9 @@ https://www.4clojure.com/
 ##### Learn You a Haskell for Great Good!
 http://learnyouahaskell.com/chapters
 
+
+
 ## Erlang
+
+#### Учебник по Erlang для самых маленьких
+[rus] https://github.com/HaruAtari/erlang-for-the-little-ones
