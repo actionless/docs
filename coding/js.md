@@ -18,6 +18,10 @@ http://jsman.ru/2012/08/24/browserify.html
 Run tests from straight your browser or Node.js. Write tests using any style you like (TDD, BDD, whatever)
 http://theintern.io/
 
+#### DalekJS
+Automated cross browser testing with JavaScript!
+http://dalekjs.com/
+
 
 ## Runtimes/dialects
 

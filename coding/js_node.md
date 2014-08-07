@@ -29,6 +29,10 @@ http://vowsjs.org/
 headless full-stack testing using Node.js
 http://zombie.labnotes.org/
 
+##### Nightwatch.js
+End-to-End (E2E) testing solution for browser based apps and websites.
+http://nightwatchjs.org/
+
 
 ## Web Frameworks
 
