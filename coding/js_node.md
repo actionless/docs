@@ -7,16 +7,34 @@ http://www.nodebeginner.org
 http://www.nodebeginner.ru/
 
 
+
 ## Environment
 
-#### Modules
+
+### Modules
 https://nodejsmodules.org/
+
+
+### Build
+
+##### A JavaScript Build System Shootout: Grunt vs. Gulp vs. NPM
+http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/
+
+#### Gulp
+The streaming build system
+http://gulpjs.com/
+
+##### Slush
+Slush is a scaffolding tool, i.e. a tool to help you generate new project structures to get you up and running with your new project in a matter of seconds.
+http://slushjs.github.io/
+
 
 #### Debugging
 ##### Good aprticle about deep debugging
 http://www.joyent.com/developers/node/debug
 ##### List of common debugging tools
 http://stackoverflow.com/a/16512303/1850190
+
 
 
 ## Testing

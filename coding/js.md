@@ -24,8 +24,11 @@ http://habrahabr.ru/post/152048/
 
 ## Environment
 
-####
-##### Browserify
+### Build
+
+
+
+#### Browserify
 Use node-style `require()` do generate on js file.
 https://github.com/substack/node-browserify/
 
@@ -55,31 +58,45 @@ http://dalekjs.com/
 
 ## Useful libs
 
-#### Lo-Dash
+##### Lo-Dash
 Function style methods for javascript.
 http://lodash.com/
 
-#### Handlebars.js
+##### Handlebars.js
 Mustache-style semantic templates.
 http://handlebarsjs.com/
 
-
-#### synchronize.js
+##### synchronize.js
 Use `await` and `defer` to execute asynchronous functions synchronously.
 http://alexeypetrushin.github.io/synchronize/docs/index.html
 
+##### Tether
+A positioning engine to make overlays, tooltips and dropdowns better #hubspot-open-source
+http://tether.io
+
+### Drawing
+
+##### pixi.js
+2D webGL renderer with canvas fallback.
+http://www.pixijs.com/
+
+http://learnjs.io/blog/2014/08/05/introduction-to-pixijs/
+
+##### p5*js
+A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
+http://p5js.org/
 
 
 ## UI components
 
-#### sale.js
+##### sale.js
 Cart Widget turns any Site into Shop.
 http://salejs.com
 
 
 ### jQuery
 
-##### Select2
+###### Select2
 jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results. 
 http://ivaynberg.github.io/select2
 
