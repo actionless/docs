@@ -1,10 +1,13 @@
 # Interesting technologies
 
+
+
 ## Workflow
 
 ### Guard
 Command line tool to easily handle events on file system modifications.
 http://guardgem.org/
+
 
 
 ## Search-related
@@ -18,12 +21,18 @@ Full text search framework.
 http://xapian.org/
 
 
+
 ## Web server
 
-###Vert.x
+### Vert.x
 A polyglot event-driven application framework that runs on the Java Virtual Machine.
 Exposes its API in Java, JavaScript, Groovy, Ruby and Python, Scala and Clojure.
 http://vertx.io/
+
+### Mongrel2
+Mongrel2 is an application, language, and network architecture agnostic web server that focuses on web applications using modern browser technologies. 
+http://mongrel2.org/
+
 
 
 ## Socket communication
@@ -38,10 +47,18 @@ It works on every platform, browser or device, focusing equally on reliability a
 http://socket.io/
 
 
-## Distributed task executing
+
+## Distributed computing
 
 #### Gearman
+Distributed task executer
 http://gearman.org/
+
+#### Storm
+Distributed realtime computation system. Makes it easy to reliably process unbounded streams of data, doing for realtime processing what Hadoop did for batch processing.
+http://storm.incubator.apache.org/
+
+
 
 ## Other
 
