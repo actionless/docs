@@ -1,3 +1,11 @@
+# Git
+
+
+
+# Mercurial
+
+
+
 # Hints related to Git and github/bitbucket/etc
 
 ## Lessons
@@ -36,6 +44,6 @@ http://habrahabr.ru/post/164297/
 ##### Everyday git aliases
 http://code.joejag.com/2013/everyday-git-aliases/
 
-### GitHub Cheat Sheet
+###GitHub Cheat Sheet
 https://github.com/tiimgreen/github-cheat-sheet#adjust-tab-space
 
