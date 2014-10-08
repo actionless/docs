@@ -1,13 +1,6 @@
 # Git
 
 
-
-# Mercurial
-
-
-
-# Hints related to Git and github/bitbucket/etc
-
 ## Lessons
 
 ##### Try git (for newbies)
@@ -18,6 +11,7 @@ https://www.atlassian.com/git/tutorial/git-basics
 
 ##### Official(?) tutorial
 http://git-scm.com/book/ru
+
 
 ## Workflow
 
@@ -36,6 +30,7 @@ http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/
 ##### [rus] rebase
 http://habrahabr.ru/post/161009/
 
+
 ## Configuration
 
 ##### [rus] git_config explanations
@@ -44,6 +39,14 @@ http://habrahabr.ru/post/164297/
 ##### Everyday git aliases
 http://code.joejag.com/2013/everyday-git-aliases/
 
+
+
+# Mercurial
+
+
+
+# Hints related to Git and github/bitbucket/etc
+
+
 ###GitHub Cheat Sheet
 https://github.com/tiimgreen/github-cheat-sheet#adjust-tab-space
-
