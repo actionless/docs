@@ -1,4 +1,4 @@
-# Useful NodeJS things
+﻿# Useful NodeJS things
 
 ## docs
 
@@ -7,12 +7,19 @@ http://www.nodebeginner.org
 http://www.nodebeginner.ru/
 
 
-
 ## Environment
+
+Alternative evented I/O for V8 javascript.
+https://github.com/iojs/io.js
 
 
 ### Modules
 https://nodejsmodules.org/
+
+#### Duo
+Duo is a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+http://duojs.org/
+https://github.com/duojs/duo
 
 
 ### Build
@@ -24,20 +31,34 @@ http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/
 The streaming build system
 http://gulpjs.com/
 
-##### Slush
-Slush is a scaffolding tool, i.e. a tool to help you generate new project structures to get you up and running with your new project in a matter of seconds.
+### Scaffolding
+
+#### Slush
+a tool to help you generate new project structures to get you up and running with your new project in a matter of seconds.
 http://slushjs.github.io/
 
+#### Lineman
+a command-line utility that is hyper-focused on helping web developers build first-class JavaScript web applications. 
+http://linemanjs.com/
 
-#### Debugging
+#### Yeoman
+The Yeoman workflow is comprised of three core tools for improving your productivity and satisfaction when building a web app. These tools are:
+
+    yo - the scaffolding tool from Yeoman
+    bower - the package management tool
+    grunt - the build tool
+    
+http://yeoman.io/learning/index.html
+
+
+### Debugging
 ##### Good aprticle about deep debugging
 http://www.joyent.com/developers/node/debug
 ##### List of common debugging tools
 http://stackoverflow.com/a/16512303/1850190
 
 
-
-## Testing
+### Testing
 
 ##### Vows
 Asynchronous behaviour driven development for Node.
@@ -78,6 +99,10 @@ http://mcavage.github.com/node-restify.
 ##### Percolator
 Percolator is a framework for quickly and easily building quality HTTP APIs in Node.js
 http://percolatorjs.com
+
+##### Eskimo
+helps you to rapidly build Node.js powered API's, online stores, and apps in general.
+http://eskimo.io/
 
 
 ### bloat

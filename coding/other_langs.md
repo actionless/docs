@@ -1,4 +1,4 @@
-# Other interesting programming languages
+﻿# Other interesting programming languages
 
 
 
@@ -12,7 +12,6 @@ http://www.impredicative.com/ur/
 http://fantom.org/
 ##### [rus] intro
 http://habrahabr.ru/post/175979/
-
 
 
 ## Clojure
@@ -69,14 +68,27 @@ http://vibed.org/
 http://learnyouahaskell.com/chapters
 
 
-
 ## Erlang
 
 #### Учебник по Erlang для самых маленьких
 [rus] https://github.com/HaruAtari/erlang-for-the-little-ones
 
+#### Nitrogen Web Framework
+the fastest way to develop interactive web applications in full-stack Erlang
+http://nitrogenproject.com/
+http://nitrogenproject.com/doc/tutorial.html
+
+#### N2O
+WebSocket Application Server
+http://synrc.com/apps/n2o/
+
 
 ## OCaml
 
-### Real World OCaml
+#### Real World OCaml
 https://realworldocaml.org/
+
+
+# Pascal
+#### Cross-platform free pascal ide
+http://www.msegui.org/

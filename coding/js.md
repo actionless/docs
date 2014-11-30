@@ -1,4 +1,4 @@
-# Useful JavaScript things
+﻿# Useful JavaScript things
 
 
 
@@ -74,7 +74,7 @@ http://alexeypetrushin.github.io/synchronize/docs/index.html
 A positioning engine to make overlays, tooltips and dropdowns better #hubspot-open-source
 http://tether.io
 
-### Drawing
+### Drawing/charts
 
 ##### pixi.js
 2D webGL renderer with canvas fallback.
@@ -85,6 +85,10 @@ http://learnjs.io/blog/2014/08/05/introduction-to-pixijs/
 ##### p5*js
 A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 http://p5js.org/
+
+#### Epoch
+A general purpose real-time charting library for building beautiful, smooth, and high performance visualizations.
+http://fastly.github.io/epoch/
 
 
 ## UI components

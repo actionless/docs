@@ -1,5 +1,9 @@
-# Useful Lua things
+﻿# Useful Lua things
 
+
+##awesome-lua
+A curated list of quality Lua packages and resources.
+https://github.com/LewisJEllis/awesome-lua
 
 
 ## References
@@ -40,6 +44,10 @@ http://marketplace.eclipse.org/content/lua-development-tools-koneki#.U6F_1abWOCh
 
 ## Modules
 
+#####IUP
+a multi-platform toolkit for building graphical user interfaces. It offers a simple API in C, Lua and LED.
+http://webserver2.tecgraf.puc-rio.br/iup/
+
 #####Lua Lanes
 multithreading in Lua.
 http://cmr.github.io/lanes/
@@ -53,6 +61,8 @@ http://cmr.github.io/lanes/
 ##### Lapis
 Lapis is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty.
 http://leafo.net/lapis/
+
+[rus] http://habrahabr.ru/post/240217/
 
 
 ### Event
